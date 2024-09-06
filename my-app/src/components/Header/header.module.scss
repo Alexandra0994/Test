@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+
+    &_logo {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #333;
+        text-decoration: none;
+        display: inline-block;
+        transition: color 0.3s ease-in-out;
+
+        &:hover {
+            color: #3498db;
+        }
+    }
+
+    &_button {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 50px;
+        border: none;
+        font-size: 1rem;
+        cursor: pointer;
+
+        &:hover {
+            background-color: #2980b9;
+            transform: scale(1.05);
+        }
+
+        &:active {
+            transform: scale(0.98);
+        }
+    }
+}

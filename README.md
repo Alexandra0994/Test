@@ -1,10 +1,10 @@
 In the project directory, you can run: commands for stars work
 
-#npm init 
-#npm install  
-#docker build -t my-react-app . 
-#docker run -p 80:80 my-react-app
-##!!!for dev npm start
+#npm init      
+#npm install     
+#docker build -t my-react-app .   
+#docker run -p 80:80 my-react-app    
+##!!!for dev npm start         
 
 #you can see  http://localhost:80
 

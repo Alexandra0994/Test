@@ -1,7 +1,7 @@
 In the project directory, you can run: commands for stars work
 
 #npm init 
-#npm install
+#npm install  
 #docker build -t my-react-app . 
 #docker run -p 80:80 my-react-app
 ##!!!for dev npm start
